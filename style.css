@@ -1,6 +1,6 @@
 .cabeçalho{
-    background-color: lemonchiffon;
-    color: rgb(182, 188, 97);
+    background-color: rgb(25, 14, 175);
+    color: rgb(10, 216, 206);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -21,7 +21,7 @@
     }
     
     .apresentaçao_trabalho{
-    background-image: linear-gradient(lemonchiffon, #b4e480);
+    background-image: linear-gradient(rgb(221, 21, 21), #000000);
     display: flex;
     justify-content: space-around;
     align-items: center;
